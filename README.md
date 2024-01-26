@@ -11,4 +11,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=MarleyMnd&show_icons=true&locale=en" alt="MarleyMnd" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=marleymnd&theme=dark" alt="marleymnd" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=marleymnd&theme=dark" alt="marleymnd" /></p>

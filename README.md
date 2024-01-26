@@ -9,4 +9,4 @@
 
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=marleymnd&theme=dark" alt="marleymnd" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MarleyMnd&show_icons=true&locale=en" alt="MarleyMnd" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marleymnd&show_icons=true&theme=dark&locale=en&layout=compact" alt="marleymnd" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marleymnd&show_icons=true&theme=dark&locale=en&layout=compact" alt="marleymnd" /></p>

@@ -6,6 +6,35 @@ I am an engineering student.
 
 I am currently learning how to code in Java.
 
+## 📚 My favorite projects so far
+<table>
+  <tbody>
+    <tr style="height: 25px;">
+      <td align="center" style="height: 25px;">&nbsp;NAME ✒️</td>
+      <td align="center" style="height: 25px;">&nbsp;FUNCTION ⚙️</td>
+      <td align="center" style="height: 25px;">&nbsp;LANGUAGE 🔠</td>
+      <td align="center" style="height: 25px;">&nbsp;STATE ⏯️</td>
+    </tr>    
+    <tr style="height: 25px;">
+      <td style="height: 25px;">&nbsp;Color Extractor</td>
+      <td style="height: 25px;">&nbsp;Extract all colors for an image</td>
+      <td style="height: 25px;">&nbsp;Python</td>
+      <td style="height: 25px;">&nbsp;Completed ✅</td>
+    </tr>
+    <tr style="height: 25px;">
+      <td style="height: 25px;">&nbsp;Arcane Archer</td>
+      <td style="height: 25px;">&nbsp;Aiming game</td>
+      <td style="height: 25px;">&nbsp;Python</td>
+      <td style="height: 25px;">&nbsp;Completed ✅</td>
+    </tr>
+    <tr style="height: 25px;">
+      <td style="height: 25px;">&nbsp;Matrix Calculator</td>
+      <td style="height: 25px;">&nbsp;Performs basic calculations on matrices</td>
+      <td style="height: 25px;">&nbsp;C</td>
+      <td style="height: 25px;">&nbsp;Issue opened ❌</td>
+  </tbody>
+</table>
+
 ## 🙍‍♂️ About me as a programmer
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marleymnd&show_icons=true&theme=dark&locale=en&layout=compact" alt="marleymnd" /></p>

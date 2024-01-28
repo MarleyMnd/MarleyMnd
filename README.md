@@ -38,7 +38,7 @@ _I am currently learning how to code in Java, HTML5 and CSS._
     </tr>
     <tr style="height: 25px;">
       <td style="height: 25px;">&nbsp;Conway's Game of Life</td>
-      <td style="height: 25px;">&nbsp;Simulates "life"</td>
+      <td style="height: 25px;">&nbsp;Simulate "life"</td>
       <td style="height: 25px;">&nbsp;Python</td>
       <td style="height: 25px;">&nbsp;Completed ✅</td>
     </tr>

@@ -47,9 +47,9 @@ _I am currently learning how to code in Java, SQL, HTML5 and CSS3._
 
 ## 👨‍💻 About me as a programmer
 
-<a href="https://github.com/MarleyMnd/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarleyMnd&show_icons=true&theme=gotham&locale=en&layout=compact&langs_count=8" />
 </a>
-<a href="https://github.com/MarleyMnd/convoychat">
+<a href="https://github.com/anuraghazra/convoychat">
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=MarleyMnd&show_icons=true&theme=gotham&locale=en&layout=compact" alt="marleymnd" />
 </a>

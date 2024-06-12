@@ -5,7 +5,7 @@ I am interested into IT for finance, Data Management, onboard systems but also A
 I am currently learning about APIs.
 
 ## 💻Programming languages:
-<p style="text-align:left; text-decoration:none">
+<p style="text-align:right; text-decoration:none">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>

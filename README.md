@@ -6,7 +6,7 @@ I am currently learning about APIs.
 
 ## 💻Programming languages:
 <p display="flex" justify-content="space-around">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" padding="1em">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -39,7 +39,7 @@ I am currently learning about APIs.
 <table width="100%" style="border-collapse: collapse;">
   <tr>
     <td align="center" style="border: none;">
-      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" padding=1em>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
       </a>
     </td>

@@ -1,6 +1,6 @@
 # Hi 👋, I'm Marley
 I am an engineering student.
-I am interested into IT for finance, Data Management, onboard systems but also Artificial Intelligence.
+I am interested in Data Management, onboard systems and Artificial Intelligence.
 
 I am currently learning about APIs.
 
